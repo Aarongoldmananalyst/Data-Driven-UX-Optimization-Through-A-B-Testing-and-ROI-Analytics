@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="visuals/banner.png" alt="Featured Business Case Study — Conversion Catalyst: Turning Data Experiments Into $4.5M Growth" width="100%">
+  <img width="1536" height="1024" alt="94f083e9-9dfd-494d-8824-022737725377" src="https://github.com/user-attachments/assets/c27c0c00-049f-41de-a6c4-7bd2edafe193" />
+
 </p>
 
 ---
