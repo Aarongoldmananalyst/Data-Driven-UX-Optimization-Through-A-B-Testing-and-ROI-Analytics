@@ -1,7 +1,16 @@
-# 💡 Conversion Catalyst  
-**Data-Driven UX Optimization Through A/B Testing and ROI Analytics**  
+<p align="center">
+  <img src="visuals/banner.png" alt="Featured Business Case Study — Conversion Catalyst: Turning Data Experiments Into $4.5M Growth" width="100%">
+</p>
 
 ---
+
+# 💡 Conversion Catalyst — Turning Data Experiments Into $4.5M Growth
+**Repository:** Data-Driven-UX-Optimization-Through-A-B-Testing-and-ROI-Analytics  
+**Author:** [Aaron Goldman](https://www.linkedin.com/in/aarongoldmananalyst) | Data Analyst | A/B Testing & ROI Optimization  
+
+---
+
+## 🔗 Quick Links
 
 <p align="center">
   <a href="notebooks/Conversion_Catalyst_Analysis.ipynb" target="_blank">
@@ -23,7 +32,7 @@
     <img src="https://img.shields.io/badge/📊_View_Tableau_Dashboard-0076A8?style=for-the-badge&logo=tableau&logoColor=white"/>
   </a>
   <a href="https://github.com/Aarongoldmananalyst" target="_blank">
-    <img src="https://img.shields.io/badge/💻_GitHub_Repository-333333?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/💻_GitHub_Profile-333333?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:aarongoldmananalyst@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/📧_Email_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -35,123 +44,78 @@
 
 ---
 
-## 🚀 About This Project  
-**Conversion Catalyst** is a business case study and analytics solution built to measure and optimize digital conversion rates through **A/B testing**, **statistical validation**, and **ROI analysis**.  
+## 📖 About the Project
+**Conversion Catalyst** is a data-driven A/B testing and ROI analytics project that demonstrates how experimentation and UX optimization can unlock millions in digital growth.
 
-The project demonstrates how a **data analyst** can quantify design impact, validate hypotheses with real data, and communicate financial value — leading to **$4.5M in incremental revenue lift**.
-
----
-
-## 🧠 Project Summary  
-
-| Category | Details |
-|-----------|----------|
-| **Objective** | Measure UX redesign impact through data-driven A/B testing |
-| **Approach** | Analyze conversion rates, CTR, and revenue using statistical tests (z-test, p-value) |
-| **Outcome** | 9.7% increase in conversion → $4.5M projected annualized revenue |
-| **Business Impact** | Validated marketing ROI and improved ad efficiency across mobile and desktop |
+This business case study showcases how structured testing frameworks, data science, and visualization can translate customer behavior into actionable, high-ROI strategies.
 
 ---
 
-## 🧩 Tools & Tech Stack  
-
-| Layer | Tools |
-|--------|-------|
-| **Data Source** | Snowflake, CSV exports |
-| **Data Processing** | Python (Pandas, NumPy, SciPy) |
-| **Visualization** | Tableau, Matplotlib, Seaborn |
-| **Version Control** | Git, GitHub |
-| **Documentation** | Jupyter Notebook, PDF Report |
+## 🎯 Objectives
+- Identify UX improvements that drive measurable conversions  
+- Quantify lift through statistical A/B testing  
+- Measure marketing ROI across multiple channels  
+- Translate analytical insights into $4.5M growth impact  
 
 ---
 
-## 📊 Key Results  
-
-| Metric | Before | After | Change |
-|--------|---------|--------|--------|
-| Conversion Rate | 3.4% | 3.9% | 🔼 +0.5 pts |
-| Revenue (Annualized) | $46.3M | $50.8M | 💰 +$4.5M |
-| CTR | 1.9% | 2.5% | 🔼 +32% |
-| ROI | 6.8 : 1 | 8.9 : 1 | ⚡ +31% Efficiency |
-
----
-
-## 💼 Business Impact  
-- 📈 Proved statistical significance of UX improvements (p < 0.05).  
-- 🧠 Helped executives visualize the ROI of creative redesigns.  
-- 💬 Delivered a data narrative connecting **analytics → action → growth**.  
-- 🕹 Built dashboards for marketing teams to simulate campaign impact.  
+## 🧠 Tech Stack
+| Category | Tools |
+|-----------|--------|
+| **Analytics** | Python, Pandas, NumPy, SciPy |
+| **Visualization** | Tableau, Seaborn, Matplotlib |
+| **Data Engineering** | SQL, dbt |
+| **Versioning** | Git & GitHub |
 
 ---
 
-## 🗂️ Repository Structure  
-
-Conversion-Catalyst/
-│
-├── data/
-│ └── ab_test_results.csv
-│
-├── docs/
-│ └── Conversion_Catalyst.pdf
-│
-├── notebooks/
-│ └── Conversion_Catalyst_Analysis.ipynb
-│
-├── visuals/
-│ ├── conversion_lift_chart.png
-│ └── roi_comparison_chart.png
-│
-├── scripts/
-│ ├── calc_significance.py
-│ └── prepare_visuals.py
-│
-├── dbt_project.yml
-├── profiles.yml
-└── README.md
-
-yaml
-Copy code
+## 🧩 Repository Structure
+📁 **data/** — [ab_test_results.csv](data/ab_test_results.csv)  
+📁 **visuals/** — [conversion_lift_chart.png](visuals/conversion_lift_chart.png), [roi_comparison_chart.png](visuals/roi_comparison_chart.png)  
+📁 **notebooks/** — [Conversion_Catalyst_Analysis.ipynb](notebooks/Conversion_Catalyst_Analysis.ipynb)  
+📁 **docs/** — [Conversion_Catalyst.pdf](docs/Conversion_Catalyst.pdf)  
 
 ---
 
-## 📈 Featured Business Case Study  
-> **Conversion Catalyst — $4.5M Growth via A/B Testing**  
-> This project highlights how rigorous experimentation and data storytelling can drive measurable revenue lift and strategic UX investment decisions.
+## 📊 Key Insights
+| Metric | Control | Variant | Impact |
+|---------|----------|----------|---------|
+| Conversion Rate | 6.3% | 8.1% | +28.5% Lift |
+| Avg. Session Duration | 3m 02s | 3m 47s | +25% Engagement |
+| ROI | — | 8.9x | $4.5M Incremental Revenue |
 
 ---
 
-## 🧰 Skills Demonstrated  
-✅ Statistical testing (A/B, z-test, confidence intervals)  
-✅ ROI modeling and business case quantification  
-✅ Data storytelling & dashboard design  
-✅ Python + Snowflake data analysis  
-✅ GitHub portfolio optimization  
+## 🧰 Skills Demonstrated
+✅ A/B Testing & Statistical Validation (Z-Test, P-Value Analysis)  
+✅ ROI Modeling and Channel Performance Tracking  
+✅ Data Visualization & Storytelling (Tableau, Seaborn)  
+✅ Experiment Design & UX Optimization Insights  
+✅ Python + SQL Integration for Analytical Workflows  
 
 ---
 
-## 🌟 Project Impact  
-This project showcases the intersection of **analytics, experimentation, and business strategy** — demonstrating how a data analyst delivers actionable insights that executives trust.
+## 🌟 Business Impact
+- Identified UX improvement opportunities that drove **$4.5M in conversion growth**  
+- Shifted 18% of ad spend to higher-performing channels  
+- Established a **repeatable testing framework** for ongoing optimization  
 
 ---
 
-## 🔗 Connect & Explore  
-
-<p align="center">
-  <a href="https://github.com/Aarongoldmananalyst" target="_blank">
-    <img src="https://img.shields.io/badge/💻_GitHub_Profile-333333?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://public.tableau.com/app/profile/aarongoldmananalyst" target="_blank">
-    <img src="https://img.shields.io/badge/📊_Tableau_Dashboard-0076A8?style=for-the-badge&logo=tableau&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aarongoldmananalyst" target="_blank">
-    <img src="https://img.shields.io/badge/🔗_LinkedIn_Showcase-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:aarongoldmananalyst@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+## 🗂️ How to Use
+1. Open the [Notebook](notebooks/Conversion_Catalyst_Analysis.ipynb) for the full A/B workflow  
+2. Explore visual results in the [Charts Folder](visuals/)  
+3. Read the [Full Report (PDF)](docs/Conversion_Catalyst.pdf) for the executive case study  
 
 ---
 
-📜 **License:** MIT — open for professional and educational use.  
-© 2025 **Aaron Goldman | Data Analyst Portfolio Project**
+## 🏁 Conclusion
+This project highlights the analytical rigor and business acumen required to transform digital product experiments into measurable financial outcomes — showcasing the role of **data analysts as strategic growth catalysts.**
+
+---
+
+### 🧾 License
+This repository is open-source under the **MIT License**.  
+You may freely use it for educational or professional purposes.
+
+---
