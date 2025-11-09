@@ -37,7 +37,7 @@
   <a href="https://github.com/Aarongoldmananalyst" target="_blank">
     <img src="https://img.shields.io/badge/💻_GitHub_Profile-333333?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:aarongoldmananalyst@gmail.com" target="_blank">
+  <a href="mailto:aarondatascientist@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/📧_Email_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/aarongoldmananalyst" target="_blank">
