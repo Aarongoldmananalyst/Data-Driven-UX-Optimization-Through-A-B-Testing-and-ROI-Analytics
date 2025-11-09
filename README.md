@@ -29,8 +29,10 @@
   <a href="docs/Conversion_Catalyst.pdf" target="_blank">
     <img src="https://img.shields.io/badge/📄_Read_Full_Report_(PDF)-9b59b6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
-  <a href="https://public.tableau.com/app/profile/aarongoldmananalyst" target="_blank">
-    <img src="https://img.shields.io/badge/📊_View_Tableau_Dashboard-0076A8?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <a href="visuals/conversion_dashboard_mockup.png" target="_blank">
+  <img src="https://img.shields.io/badge/📊_View_Tableau_Dashboard_Mockup-0076A8?style=for-the-badge&logo=tableau&logoColor=white"/>
+</a>
+
   </a>
   <a href="https://github.com/Aarongoldmananalyst" target="_blank">
     <img src="https://img.shields.io/badge/💻_GitHub_Profile-333333?style=for-the-badge&logo=github&logoColor=white"/>
