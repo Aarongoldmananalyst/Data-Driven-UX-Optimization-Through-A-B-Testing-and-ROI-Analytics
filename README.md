@@ -7,7 +7,7 @@
 
 # 💡 Conversion Catalyst — Turning Data Experiments Into $4.5M Growth
 **Repository:** Data-Driven-UX-Optimization-Through-A-B-Testing-and-ROI-Analytics  
-**Author:** [Aaron Goldman](https://www.linkedin.com/in/aarongoldmananalyst) | Data Analyst | A/B Testing & ROI Optimization  
+**Author:** [Aaron Goldman](https://https://www.linkedin.com/in/aaron-goldmans/) | Data Analyst | A/B Testing & ROI Optimization  
 
 ---
 
