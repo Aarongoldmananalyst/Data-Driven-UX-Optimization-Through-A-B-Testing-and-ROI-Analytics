@@ -6,6 +6,9 @@
 ---
 
 # 💡 Conversion Catalyst — Turning Data Experiments Into $4.5M Growth
+
+**Executive Summary:** A/B testing and ROI analysis identified UX improvements that increased conversion rates by **28.5%** and generated **$4.5M** in incremental revenue.
+
 **Repository:** Data-Driven-UX-Optimization-Through-A-B-Testing-and-ROI-Analytics  
 **Author:** [Aaron Goldman](https://https://www.linkedin.com/in/aaron-goldmans/) | Data Analyst | A/B Testing & ROI Optimization  
 
@@ -102,6 +105,7 @@ This business case study showcases how structured testing frameworks, data scien
 - Identified UX improvement opportunities that drove **$4.5M in conversion growth**  
 - Shifted 18% of ad spend to higher-performing channels  
 - Established a **repeatable testing framework** for ongoing optimization  
+- *Revenue impact estimated using observed conversion lift applied to historical traffic and average order value (AOV).*
 
 ---
 
