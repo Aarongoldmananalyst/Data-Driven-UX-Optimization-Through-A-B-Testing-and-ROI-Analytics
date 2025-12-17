@@ -22,7 +22,7 @@ A digital product experienced high traffic but underperformed in conversions, re
 
 ## Analytical Approach
 - Designed controlled A/B experiments to evaluate UX changes
-- Applied statistical hypothesis testing to validate conversion lift
+- Evaluated conversion lift using controlled A/B testing methodology and comparative performance analysis
 - Modeled revenue impact using traffic, AOV, and conversion deltas
 - Visualized performance using Tableau and Python charts
 
