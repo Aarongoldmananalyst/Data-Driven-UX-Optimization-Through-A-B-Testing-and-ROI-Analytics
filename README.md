@@ -116,7 +116,7 @@ This business case study showcases how structured testing frameworks, data scien
 ---
 
 ## 🧰 Skills Demonstrated
-✅ A/B Testing & Statistical Validation (Z-Test, P-Value Analysis)  
+✅ A/B Testing & Conversion Lift Validation
 ✅ ROI Modeling and Channel Performance Tracking  
 ✅ Data Visualization & Storytelling (Tableau, Seaborn)  
 ✅ Experiment Design & UX Optimization Insights  
@@ -148,6 +148,8 @@ This business case study showcases how structured testing frameworks, data scien
 
 ## 🏁 Conclusion
 This project highlights the analytical rigor and business acumen required to transform digital product experiments into measurable financial outcomes — showcasing the role of **data analysts as strategic growth catalysts.**
+
+**This case study reflects the type of revenue-focused experimentation and decision support expected from data analysts working in product and growth teams.**
 
 ---
 
