@@ -33,7 +33,7 @@ A digital product experienced high traffic but underperformed in conversions, re
 
 
 **Repository:** Data-Driven-UX-Optimization-Through-A-B-Testing-and-ROI-Analytics  
-**Author:** [Aaron Goldman](https://https://www.linkedin.com/in/aaron-goldmans/) | Data Analyst | A/B Testing & ROI Optimization  
+**Author:** [Aaron Goldman](https://www.linkedin.com/in/aaron-goldmans) | Data Analyst | A/B Testing & ROI Optimization  
 
 ---
 
