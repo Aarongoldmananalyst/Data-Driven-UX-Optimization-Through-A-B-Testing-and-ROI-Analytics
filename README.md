@@ -66,7 +66,7 @@ A digital product experienced high traffic but underperformed in conversions, re
   <a href="mailto:aarondatascientist@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/📧_Email_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/aarongoldmananalyst" target="_blank">
+  <a href="https://https://www.linkedin.com/in/aaron-goldmans" target="_blank">
     <img src="https://img.shields.io/badge/🔗_LinkedIn_Showcase-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
