@@ -37,39 +37,20 @@ A digital product experienced high traffic but underperformed in conversions, re
 
 ---
 
+
+
 ## 🔗 Quick Links
 
-<p align="center">
-  <a href="notebooks/Conversion_Catalyst_Analysis.ipynb" target="_blank">
-    <img src="https://img.shields.io/badge/📓_View_Jupyter_Notebook-1f77b4?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  </a>
-  <a href="data/ab_test_results.csv" target="_blank">
-    <img src="https://img.shields.io/badge/📊_Download_Sample_Data-2ca02c?style=for-the-badge&logo=csv&logoColor=white"/>
-  </a>
-  <a href="visuals/conversion_lift_chart.png" target="_blank">
-    <img src="https://img.shields.io/badge/📈_View_Conversion_Chart-f39c12?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
-  </a>
-  <a href="visuals/roi_comparison_chart.png" target="_blank">
-    <img src="https://img.shields.io/badge/💰_ROI_Comparison_Chart-16a085?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
-  </a>
-  <a href="docs/Conversion_Catalyst.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄_Read_Full_Report_(PDF)-9b59b6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-  </a>
-  <a href="visuals/conversion_dashboard_mockup.png" target="_blank">
-  <img src="https://img.shields.io/badge/📊_View_Tableau_Dashboard_Mockup-0076A8?style=for-the-badge&logo=tableau&logoColor=white"/>
-</a>
+[![📓 View Jupyter Notebook](https://img.shields.io/badge/📓_View_Jupyter_Notebook-1f77b4?style=for-the-badge&logo=jupyter&logoColor=white)](notebooks/Conversion_Catalyst_Analysis.ipynb)
+[![📊 Download Sample Data](https://img.shields.io/badge/📊_Download_Sample_Data-2ca02c?style=for-the-badge&logo=csv&logoColor=white)](data/ab_test_results.csv)
+[![📈 View Conversion Chart](https://img.shields.io/badge/📈_View_Conversion_Chart-f39c12?style=for-the-badge&logo=chartdotjs&logoColor=white)](visuals/conversion_lift_chart.png)
+[![💰 ROI Comparison Chart](https://img.shields.io/badge/💰_ROI_Comparison_Chart-16a085?style=for-the-badge&logo=chartdotjs&logoColor=white)](visuals/roi_comparison_chart.png)
+[![📄 Read Full Report](https://img.shields.io/badge/📄_Read_Full_Report_(PDF)-9b59b6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](docs/Conversion_Catalyst.pdf)
+[![📊 View Tableau Dashboard Mockup](https://img.shields.io/badge/📊_View_Tableau_Dashboard_Mockup-0076A8?style=for-the-badge&logo=tableau&logoColor=white)](visuals/conversion_dashboard_mockup.png)
+[![💻 GitHub Profile](https://img.shields.io/badge/💻_GitHub_Profile-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aarongoldmananalyst)
+[![🔗 LinkedIn Showcase](https://img.shields.io/badge/🔗_LinkedIn_Showcase-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-goldmans)
+[![📧 Email Contact](https://img.shields.io/badge/📧_Email_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aarondatascientist@gmail.com)
 
-  </a>
-  <a href="https://github.com/Aarongoldmananalyst" target="_blank">
-    <img src="https://img.shields.io/badge/💻_GitHub_Profile-333333?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:aarondatascientist@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/📧_Email_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://https://www.linkedin.com/in/aaron-goldmans" target="_blank">
-    <img src="https://img.shields.io/badge/🔗_LinkedIn_Showcase-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
